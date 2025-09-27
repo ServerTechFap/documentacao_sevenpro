@@ -1,4 +1,4 @@
-# SevenPro - Banco de Dados
+# SevenPro - Banco de Dadoss
 
 Script SQL para criação do banco de dados **SevenPro**.
 
